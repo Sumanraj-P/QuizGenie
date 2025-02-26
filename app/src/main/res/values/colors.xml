@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme Colors -->
+    <color name="primary">#6A0DAD</color>
+    <color name="secondary">#9D4EDD</color>
+    <color name="accent">#F72585</color>
+    <color name="accent_alt">#00F5D4</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F3E8FF</color>
+    <color name="background_dark">#1A1A2E</color>
+    <color name="glass_background">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#666666</color>
+
+    <!-- Utility Colors -->
+    <color name="divider">#E0E0E0</color>
+
+    <color name="black">#000000</color>
+
+    <color name="primary_shadow">#50000000</color>
+    <color name="input_background">#10FFFFFF</color>
+    <color name="input_stroke">#30FFFFFF</color>
+
+        <color name="white">#FFFFFF</color>
+        <color name="light_blue">#7B68EE</color>
+        <color name="dark_gray">#333333</color>
+
+</resources>
