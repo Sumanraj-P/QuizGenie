@@ -1,4 +1,23 @@
 <resources>
     <string name="app_name">QuizGenie</string>
     <string name="default_web_client_id">1049468612320-vesp7tgrmabl5rm3u08089j4ibsethe9.apps.googleusercontent.com</string>
+    <string-array name="quiz_interests">
+        <item>Science</item>
+        <item>History</item>
+        <item>Tech</item>
+        <item>Sports</item>
+        <item>General Knowledge</item>
+    </string-array>
+
+    <string-array name="difficulty_levels">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Tamil</item>
+        <item>Hindi</item>
+    </string-array>
 </resources>

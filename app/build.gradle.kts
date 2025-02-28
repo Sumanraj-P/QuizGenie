@@ -54,7 +54,8 @@ dependencies {
 
     // Chart Library
     implementation("com.github.PhilJay:MPAndroidChart:3.1.0")
-    implementation(libs.litert.support.api) // Requires JitPack
+    implementation(libs.litert.support.api)
+    implementation(libs.firebase.database) // Requires JitPack
 
     // Testing
     testImplementation("junit:junit:4.13.2")

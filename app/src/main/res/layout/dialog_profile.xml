@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imgProfileClose"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_plus"
+        android:layout_gravity="end"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/txtProfileName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User Name"
+        android:textSize="20sp"
+        android:textColor="#333333"
+        android:fontFamily="@font/poppins_semibold"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtProfileEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="user@example.com"
+        android:textSize="16sp"
+        android:textColor="#757575"
+        android:fontFamily="@font/poppins_regular"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtProfileDifficulty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Difficulty: Easy"
+        android:textSize="16sp"
+        android:textColor="#757575"
+        android:fontFamily="@font/poppins_regular"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtProfileLanguage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Language: English"
+        android:textSize="16sp"
+        android:textColor="#757575"
+        android:fontFamily="@font/poppins_regular"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txtProfileInterest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quiz Interest: Science"
+        android:textSize="16sp"
+        android:textColor="#757575"
+        android:fontFamily="@font/poppins_regular"/>
+</LinearLayout>
